@@ -1,0 +1,24 @@
+.container-bg {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: auto;
+}
+
+.heading {
+  color: #2d3a35;
+}
+
+.number {
+  color: #c20a72;
+}
+
+.click-button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: 0px;
+  height: 25px;
+}
